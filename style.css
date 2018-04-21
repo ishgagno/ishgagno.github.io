@@ -1,0 +1,15 @@
+.splash {
+
+	background-image: url("images/shoes.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+}
+
+.splash-text {
+	color: white;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
